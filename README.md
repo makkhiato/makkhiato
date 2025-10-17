@@ -3,7 +3,6 @@
 </div>
 
 <div align="center"><p>🌟 An aspiring data analyst <span><b>focused on extracting meaningful patterns and building data-driven narratives</b></span>.</p></div>
-<br>
 
 - 📝 Currently studying **Computer Science** at Pamantasan ng Lungsod ng Maynila
   
@@ -12,7 +11,6 @@
 - 💡 I use GitHub as my digital portfolio: **documenting my learning journey, sharing my projects, and tracking my progress as I transition into a data career**.
 
 - 📫 How to reach me: marcobautista2836@gmail.com | https://www.linkedin.com/in/marco-bautista-803821372
-<br>
 
 ### Languages and Tools
 <p align="center">
