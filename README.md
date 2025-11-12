@@ -6,7 +6,7 @@
 
 - 📝 Currently studying **Computer Science** at Pamantasan ng Lungsod ng Maynila
   
-- 🌱 I’m currently learning **Python Libraries (Pandas, Numpy, Matplotlib, Scikit-learn)** and **SQL**.
+- 🌱 Currently learning **MS Excel**, **SQL**, and **Python**.
   
 - 💡 I use GitHub as my digital portfolio: **documenting my learning journey, sharing my projects, and tracking my progress as I transition into a data career**.
 
