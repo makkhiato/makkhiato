@@ -24,6 +24,6 @@
 </p>
 
 <div align="center">
-  <p><br><span><b><i>💭 The secret of getting ahead is getting started.</i></b></span> <span><b>- Mark Twain</b></span></p>
+  <p><i>💭 Fortune favors the bold.</i></p>
 </div>
 
